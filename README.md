@@ -26,8 +26,8 @@ category, comment, subcategory
 
 For example, I could enter:
 
-lunch, tuna sandwich
-work, completed this repo, projectX
+- lunch, tuna sandwich
+- work, completed this repo, projectX
 
 The first entry logs what I ate. The second one logs what I worked on, but also associated it with projectX
 
