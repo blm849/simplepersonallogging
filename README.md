@@ -9,7 +9,7 @@ I wanted a way to simply log information in a spreadsheet, so I created this log
 and one is the name of the XLSX file to append to
 - easylog.py: this is the actual Python program. I run it using python easylog.py. If you want to use a different
 ini file, pass the name to to the program
-- easylog.xlsx: This is the XLSX file the python propgram appends to
+- easylog.xlsx: This is the XLSX file the python program appends to
 
 ## Info
 
