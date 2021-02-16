@@ -5,11 +5,11 @@
 I wanted a way to simply log information in a spreadsheet, so I created this logging program.
 ## File Listing
 
-easylog.ini:  this provides input to easylog.py. There are three variables: two are prompts for the users
+- easylog.ini:  this provides input to easylog.py. There are three variables: two are prompts for the users
 and one is the name of the XLSX file to append to
-easylog.py: this is the actual Python program. I run it using python easylog.py. If you want to use a different
+- easylog.py: this is the actual Python program. I run it using python easylog.py. If you want to use a different
 ini file, pass the name to to the program
-easylog.xlsx: This is the XLSX file the python propgram appends to
+- easylog.xlsx: This is the XLSX file the python propgram appends to
 
 ## Info
 
